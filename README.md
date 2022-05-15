@@ -1,15 +1,16 @@
-# Projeto Origamid - Site Bikcraft
+# Projeto Resília - Banco de dados da Fórmula 1
 
-O projeto BICKCRAFT foi desenvolvido no curso WEBDESIGN da ORIGAMID. Nele, aprimorei minhas habilidades de posicionamento no CSS. Foi a primeira página que realizei linkando as páginas entre si, além de estar bem estruturado e visualmente de fácil acessibilidade.
+No módulo III do curso de DESENVOLVIMENTO WEB FULL STACK da RESILIA EDUCAÇÃO, fomos orientados a organizar e filtrar um banco de dados da fórmula 1, onde realizarmos a inserção dos dados dos dados SQL no MYSql. Após, realizamos algumas perguntas e buscamos as respostas por meio consultar na base de dados.
+
 
 ## 🚀 Finalidade
 
-A ideia de realizar esse projeto foi da necessidade que senti em estar aprimorando o conhecimento do CSS3, especificamente o FLEXBOX.
+Após escolhermos o tema, fomos elaborando as perguntas e, com isso, ficamos bem curiosos em saber as respostas que teríamos.
 
 
 ## 📋 Tecnologias utilizadas
 
-🛠️No projeto, utilizei HTML5 de forma semântica e o CSS3.
+🛠️No projeto, utilizamos HTML5 de forma semântica, o CSS3 e o MYsql
 <div style="display: inline_block"><br>
 <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,9 +19,11 @@ A ideia de realizar esse projeto foi da necessidade que senti em estar aprimoran
 
 ## 📦 Desenvolvimento
 
-Utilizei como base as aulas e códigos demostrados em aulas do curso WEBDESIGN. 
+- [@camimonteiro](https://github.com/camimonteiro)
+- [@Lauracastro27](https://github.com/Lauracastro27)
+- [@williamfirmino92](https://www.github.com/williamfirmino92)
+- [@valderyjr](https://github.com/valderyjr)
 
-📌 Link do site aonde realizei o curso: https://www.origamid.com/
 
 
 ## 📄 Projeto
