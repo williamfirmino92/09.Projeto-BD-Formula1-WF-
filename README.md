@@ -28,12 +28,11 @@ Após escolhermos o tema, fomos elaborando as perguntas e, com isso, ficamos bem
 
 ## 📄 Projeto
 
-
-![image](https://user-images.githubusercontent.com/89873481/168302568-d93c8955-691e-4940-81df-0201cdb8df0a.png)
-
+chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=16&url=https%3A%2F%2Fwilliamfirmino92.github.io%2F09.Projeto-BD-Formula1-WF-%2F
 
 
-📌 Link do projeto no github Pages: https://williamfirmino92.github.io/07.Projeto-Bikcraft-WF-/
+
+📌 Link do projeto no github Pages: https://williamfirmino92.github.io/09.Projeto-BD-Formula1-WF-/
  
 
 
