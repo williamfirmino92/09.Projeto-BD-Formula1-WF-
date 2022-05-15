@@ -1,0 +1,38 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.back{
+   background-color: black;
+   color: white;
+   font-family: 'Montserrat', sans-serif;
+}
+.stick{
+   position: sticky;
+   top: 0px;
+}
+.org{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.lista{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+}
+.radius{
+    border-radius: 50%;
+}
+.shadow{
+    text-shadow: 8px 8px 10px red;
+}
+.kan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
