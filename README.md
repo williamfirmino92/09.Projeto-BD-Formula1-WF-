@@ -28,7 +28,7 @@ Após escolhermos o tema, fomos elaborando as perguntas e, com isso, ficamos bem
 
 ## 📄 Projeto
 
-chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=16&url=https%3A%2F%2Fwilliamfirmino92.github.io%2F09.Projeto-BD-Formula1-WF-%2F
+![image](https://user-images.githubusercontent.com/89873481/168455083-fb165cca-6188-4e3b-a8af-364748d2c6a2.png)
 
 
 
